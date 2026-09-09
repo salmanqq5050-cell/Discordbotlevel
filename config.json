@@ -2,8 +2,8 @@
     "token": "MTUzMTUxMzk3MjIzMzA3NjgwNg.Gnb8Ce.ghNXwO_4KFY8ff9xxlPHboND9G1of6D5Fty6bI",
     "levelUpChannelId": "CHANNEL_ID_FOR_LEVEL_UP_MESSAGES",
     "levelRoles": {
-        "1": "ROLE_ID_FOR_LEVEL_1",
-        "2": "ROLE_ID_FOR_LEVEL_2"
-    }   "3": "ROLE_ID_FOR_LEVEL_3"
-        "4": "ROLE_ID_FOR_LEVEL_4"
+        "1": "1546837896454086697",
+        "2": "1546838346632794212"
+    }   "3": "1546838390714925117"
+        "4": "1546838461535756288"
 }
